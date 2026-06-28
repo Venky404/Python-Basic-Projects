@@ -1,4 +1,5 @@
 # Function to analyze a string
+# analyze string
 
 def analyze_string(s):
     # Check if the string is empty
