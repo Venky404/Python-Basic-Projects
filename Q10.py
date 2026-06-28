@@ -1,3 +1,4 @@
+# Implement Smart Calculator project
 import math
 import random
 from datetime import datetime
