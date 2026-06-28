@@ -1,4 +1,5 @@
 # Lambda function
+# Implement Lambda Function program
 square = lambda x: x * x
 
 try:
